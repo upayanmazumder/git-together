@@ -94,10 +94,11 @@ Special thanks to:
 ## 📂 Repository Structure
 
 ```
-index.html     → Demo HTML file used during the workshop
-global.css     → Stylesheet for the demo project
-.vscode/       → VS Code settings used for Git integration
-README.md      → Event overview
+index.html              → Demo HTML file used during the workshop
+global.css              → Stylesheet for the demo project
+.vscode/                → VS Code settings used for Git integration
+GIT Together.pptx       → The presentation document
+README.md               → Event overview
 ```
 
 ## Slides
